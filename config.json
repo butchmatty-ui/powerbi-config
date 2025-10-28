@@ -2,20 +2,23 @@
   "reports": [
     {
       "name": "UGL Material Tracker",
+      "icon": "assets/UGL.png",
       "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=3174a812-c69c-4898-95fd-29b4750e5a67&appId=379361e8-1168-45a7-8878-a701af017187&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26&navContentPaneEnabled=false&filterPaneEnabled=false&hideNavigation=true&disableSensitivityBanner=true"
     },
     {
       "name": "MTS",
-      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=c7020fd8-3add-4b4b-b981-fbe7b0f9a607&appId=ca148f7&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26&disableSensitivityBanner=true"
+      "icon": "assets/MTS.png",
+      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=c7020fd8-3add-4b4b-b981-fbe7b0f9a607&appId=ca148f7&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26"
     },
     {
       "name": "OEM to Supplier Matrix",
-      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=b71fc302-799c-4e0d-9a83-47e70ca4a1f7&appId=ec1099e&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26&disableSensitivityBanner=true"
+      "icon": "assets/OEM.png",
+      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=b71fc302-799c-4e0d-9a83-47e70ca4a1f7&appId=ec1099e&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26"
     },
     {
       "name": "WOAR",
-      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=73e4a5d1-e0fb-4464-aae4-4f48f3151f00&appId=ec1099e&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26&disableSensitivityBanner=true"
+      "icon": "assets/WOAR.png",
+      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=73e4a5d1-e0fb-4464-aae4-4f48f3151f00&appId=ec1099e&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26"
     }
   ]
 }
-
