@@ -8,17 +8,18 @@
     {
       "name": "MTS",
       "icon": "assets/MTS.png",
-      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=c7020fd8-3add-4b4b-b981-fbe7b0f9a607&appId=ca148f7&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26"
+      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=c7020fd8-3add-4b4b-b981-fbe7b0f9a607&appId=ca148f7&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26&disableSensitivityBanner=true"
     },
     {
       "name": "OEM to Supplier Matrix",
       "icon": "assets/OEM.png",
-      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=b71fc302-799c-4e0d-9a83-47e70ca4a1f7&appId=ec1099e&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26"
+      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=b71fc302-799c-4e0d-9a83-47e70ca4a1f7&appId=ec1099e&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26&disableSensitivityBanner=true"
     },
     {
       "name": "WOAR",
       "icon": "assets/WOAR.png",
-      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=73e4a5d1-e0fb-4464-aae4-4f48f3151f00&appId=ec1099e&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26"
+      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=73e4a5d1-e0fb-4464-aae4-4f48f3151f00&appId=ec1099e&autoAuth=true&ctid=fd799da1-bfc1-4234-a91c-72b3a1cb9e26&disableSensitivityBanner=true"
     }
   ]
 }
+
